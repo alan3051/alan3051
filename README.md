@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alan
-- 👀 I’m interested in data analytics & visulization with Python, R, Excel, and Tableau
+- 👀 I’m interested in data analytics & visulization with Python, Spreadsheets, and Tableau
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data analytics & visulaization projects involving crime rates, box office, politics and policy, and intelligence and security
 - 📫 How to reach me: alanbaez503@gmail.com
